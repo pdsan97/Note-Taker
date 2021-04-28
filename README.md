@@ -4,4 +4,3 @@
 
 ## The Website can be viewed [here](https://note-taker-assignment.herokuapp.com/notes)
 
-[Example](https://i.imgur.com/c28ig1R.png)
